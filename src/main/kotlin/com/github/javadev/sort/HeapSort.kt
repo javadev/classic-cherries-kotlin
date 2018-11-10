@@ -1,4 +1,4 @@
-package com.github.javadev
+package com.github.javadev.sort
 
 class HeapSort {
   fun sort(array:IntArray, size:Int) {

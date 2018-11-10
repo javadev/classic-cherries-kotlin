@@ -1,4 +1,4 @@
-package com.github.javadev
+package com.github.javadev.sort
 
 import org.fest.assertions.Assertions.assertThat
 import org.junit.Test

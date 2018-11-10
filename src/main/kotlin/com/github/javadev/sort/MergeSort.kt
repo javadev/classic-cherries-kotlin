@@ -1,4 +1,4 @@
-package com.github.javadev
+package com.github.javadev.sort
 
 import java.util.Arrays
 
