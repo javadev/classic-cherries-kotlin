@@ -11,4 +11,12 @@ class MergeSortTest {
     mergeSort.mergeSort(array)
     assertThat(array).contains(1, 2, 2, 3, 4, 5, 6, 6)
   }
+
+  @Test
+  fun test_merge_sort2() {
+    val mergeSort = MergeSort()
+    val array = intArrayOf(5, 2, 4, 6, 1, 3, 2, 6)
+    mergeSort.merge(array, intArrayOf())
+    assertThat(array).contains(1, 2, 2, 3, 4, 5, 6, 6)
+  }
 }
