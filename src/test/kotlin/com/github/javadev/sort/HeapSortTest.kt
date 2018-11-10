@@ -1,4 +1,5 @@
 package com.github.javadev
+
 import org.fest.assertions.Assertions.assertThat
 import org.junit.Test
 
