@@ -11,7 +11,7 @@
   <url>https://github.com/javadev/classic-cherries-kotlin</url>
 
   <properties>
-    <kotlin.version>1.3.0</kotlin.version>
+    <kotlin.version>1.6.0</kotlin.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
