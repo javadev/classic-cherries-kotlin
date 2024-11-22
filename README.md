@@ -1,5 +1,5 @@
-[![Build Status](https://secure.travis-ci.org/javadev/classic-cherries-kotlin.svg)](http://travis-ci.org/javadev/classic-cherries-kotlin)
-[![codecov.io](http://codecov.io/github/javadev/classic-cherries-kotlin/coverage.svg?branch=master)](http://codecov.io/github/javadev/classic-cherries-kotlin?branch=master)
+[![Java CI](https://github.com/javadev/classic-cherries-kotlin/actions/workflows/maven.yml/badge.svg)](https://github.com/javadev/classic-cherries-kotlin/actions/workflows/maven.yml)
+[![codecov.io](http://codecov.io/github/javadev/classic-cherries-kotlin/coverage.svg?branch=master)](http://codecov.io/github/javadev/classic-cherries-kotlin?branch=main)
 
 # classic-cherries-kotlin
 Implementation of some classical computer science algorithms in kotlin
